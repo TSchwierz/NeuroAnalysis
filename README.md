@@ -16,4 +16,4 @@ Apr 30 2024: Finished GLM ex1.
 
 May 01 2024: Finished GLM module, need to check ex3 with assistant.
 
-May 15 2024: Added bayes decoding exercise.
+May 15 2024: Finished GLM, started bayes decoding exercise.
