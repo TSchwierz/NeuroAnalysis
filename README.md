@@ -1,6 +1,7 @@
 # NeuroAnalysis
 For Module 1, neural data, I decided to complete the LFP Chapter fully. The Solutions are found in the LFPexercise file. That means that for the Calcium Imaging, I'm only completing one exercise.
 For Module 2, I'm doing the GLM exercises fully and only the first one from tuning curves.
+For Mudule 3, 
 
 May 11: The LFP exercises are complete (Complete)
 
