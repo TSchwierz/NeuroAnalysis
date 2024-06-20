@@ -1,7 +1,7 @@
 # NeuroAnalysis
 For Module 1, neural data, I decided to complete the LFP Chapter fully. The Solutions are found in the LFPexercise file. That means that for the Calcium Imaging, I'm only completing one exercise.
 For Module 2, I'm doing the GLM exercises fully and only the first one from tuning curves.
-For Module 3, I'm working to completly the SVM chapter completly.
+For Module 3, I'm working to do the SVM chapter completely.
 
 May 11: The LFP exercises are complete (Complete)
 
@@ -22,3 +22,5 @@ May 15 2024: Finished GLM, started bayes decoding exercise.
 ? ? ?: Worked on BD, DR, and SVM
 
 Jun 4th: Worked on SVM. 
+
+Jun 20th: Completed all modules
